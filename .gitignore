@@ -14,3 +14,10 @@
 .cxx
 local.properties
 /.idea/
+    .idea/ToDoListAppDao.iml
+        .idea/libraries/
+        .idea/misc.xml
+        .idea/modules.xml
+        .idea/modules/
+        .idea/vcs.xml
+
